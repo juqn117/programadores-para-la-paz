@@ -1,0 +1,8 @@
+en mi opinión el saber usar la terminal es importante para cualquier desarrollador 
+sin importar el lenguaje de programación que se aprenda
+ ya que la terminal permite navegar y organizar archivos de forma rápida y eficiente, 
+ con ella podemos crear carpetas , mover , copiar  o eliminar archivos sin depender de una interfaz grafica
+ además herramientas de programación y controladores de versiones como GIT que funcionan principalmente desde la terminal, también se pueden optimizar tareas repetitivas,  
+ ahorrando mucho tiempo durante el desarrollo de proyectos
+ conocer estos comandos facilita trabajar en servidores y sistemas remotos , algo bastante común en el mundo de la tecnología 
+ para resumir , manejar la terminal mejora bastante la productividad , el orden del  proyecto y las habilidades técnicas de cualquier desarrollador 
