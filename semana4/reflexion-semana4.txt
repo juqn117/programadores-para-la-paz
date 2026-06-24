@@ -1,0 +1,9 @@
+es importante que las comunidades puedan construir herramientas teconologicas 
+utilizando tecnologias abiertas por una razon muy importante , la autonomia 
+ya que no dependen de grandes corporaciones ni de uss cambios de precios o politicas
+la comunidad es dueña absoluta de su tecnologia y de sus datos garantizando su privacidad 
+tambien proporciona soluciones a medida y sin costos , el software comercial suele ser 
+costoso y generico , las tecnologias abiertas  permiten adaptar las herramientas exactamente 
+para las necesidades de los usuarios esto , junto con el conocimiento compartido node.js 
+utiliza javascript , el lenguaje mas popular del mundo,  facilitando que los miembros 
+de la comunidad aprendan a programar y modificar las herramientas necesarias 
