@@ -1,0 +1,8 @@
+los proyectos de software  deben mantener un registro de cambios con herramientas como git porque 
+permite guardar la informacion de todas las modificaciones realizadas para poder mantener un seguimiento de quien hizo cada 
+cambio , cuando se hizo , y el porque se hizo , tambien facilita recuperar versiones anteriores 
+en caso de que ocurra algun error o problema dentro del proyecto
+ git tambien puede ayudar a mejorar el trabajo en equipo, ya que varios
+desarrolladoeres pueden colaborar en el mismo proyecto sin sobreescribir o dañar el trabajo de tus compañeros
+gracias a este control el desarrollo es mas organizado , seguro y eficiente , permitiendo
+dar seguimiento al progreso del proyecto y mantener un mejor control sobre el codigo 

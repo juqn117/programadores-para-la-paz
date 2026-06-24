@@ -1,0 +1,14 @@
+que es un Repositorio?:
+Este es el espacio donde se almacenan todos los archivos de un proyecto
+También guarda el historial de cambios realizados a lo largo del tiempo
+Permite que varias personas trabajen sobre el mismo proyecto de forma organizada
+
+que es Commit?:
+commit Es un registro de los cambios realizados en el proyecto en un momento específico
+Funciona como una "foto" del estado de los archivos en ese instante
+Ayuda a llevar un control del progreso y a recuperar versiones anteriores si es necesario
+
+que es el Push?:
+el push es enviar los cambios guardados localmente al repositorio en GitHub
+Permite actualizar la versión en línea del proyecto con los últimos commits realizados
+Facilita compartir el trabajo con otros colaboradores y mantener el proyecto sincronizado
