@@ -15,3 +15,6 @@ muestra esto
   "tipo": "Soporte",
   "descripcion": "No carga la pantalla de inicio"
 }
+
+el servidor recibe el JSON, procesa las variables que se pidieron en el codigo 
+y genera una respuesta personalizada JSON usando esos mismos datos
