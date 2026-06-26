@@ -1,0 +1,19 @@
+ ### Probar el Registro
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Juan",
+  "mensaje": "Hola desde REST Client"
+}
+
+###
+
+###Probar la Incidencia
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Soporte",
+  "descripcion": "No carga la pantalla de inicio"
+}

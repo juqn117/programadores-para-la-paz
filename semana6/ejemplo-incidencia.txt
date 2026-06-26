@@ -1,0 +1,5 @@
+{
+  "tipo": "servicio de alcantarillado",
+  "descripcion": "La comunidad reporta inundaciones en distinata calles por problemas 
+  de drenaje en el alcantarillado "
+}

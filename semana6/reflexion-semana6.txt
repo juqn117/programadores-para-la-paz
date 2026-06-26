@@ -1,0 +1,8 @@
+Cuando los ciudadanos reportan un problema en su comunidad, como un bache o una lampara rota
+ que la plataforma reciba esa información de forma estructurada, es decir, organizada en campos claros como tipo de falla,
+ dirección y una foto, cambia por completo las cosas Para el servidor,
+ procesar datos limpios en lugar de un texto libre y desordenado significa que puede clasificar
+ priorizar y asignar el problema automáticamente al equipo correcto sin perder tiempo descifrando correos interminables
+ Esto agiliza la respuesta institucional enormemente, permitiendo solucionar los incidentes en tiempo récord, Además
+ tener la información organizada facilita la creación de estadísticas reales para identificar qué zonas necesitan más atención o inversión a largo plazo
+ la estructura transforma la queja de un miembro de la comunidad  en una herramienta de gestión eficiente que mejora la vida de todos en la comunidad

@@ -1,0 +1,17 @@
+la ruta  http://localhost:3000/registro
+muestra la siguiente respuesta 
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Juan",
+  "mensaje": "Hola desde REST Client"
+}
+
+y la ruta http://localhost:3000/incidencia
+muestra esto 
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Soporte",
+  "descripcion": "No carga la pantalla de inicio"
+}
