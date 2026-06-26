@@ -1,0 +1,8 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Las APIs actúan como puentes tecnológicos que permiten centralizar y estandarizar la información comunitaria en tiempo real
+ Al conectar reportes ciudadanos como baches, cortes de luz o alertas de seguridad desde aplicaciones móviles hacia una base de datos única, 
+ evitan el caos de los mensajes dispersos Además, organizan automáticamente estos datos por categorías, zonas geográficas y niveles de urgencia 
+ para que sean fáciles de filtrar Esto facilita que tanto los vecinos como los servicios de emergencia accedan a un panel de control 
+ unificado y actualizado Al automatizar la distribución de alertas, las APIs garantizan que la información crítica llegue instantáneamente a quienes la necesitan
+  mejorando la coordinación y la capacidad de respuesta colectiva.

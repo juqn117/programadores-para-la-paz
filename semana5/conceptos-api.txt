@@ -1,0 +1,5 @@
+la ruta /reporte funciona como una ventanilla digital que recibe los datos que envian los usuarios 
+escucha las peticiones POST en /reporte , extrae el texto guardado en req.body.mensaje;
+y responde con un json que confirma la informacion 
+esto en una aplicacion comunitaria, es la base para que los vecinos registren incidentes o compartan novedades
+de manera organizada, serviria para reportar problemas o fallas y  envirar alertas de seuridad 

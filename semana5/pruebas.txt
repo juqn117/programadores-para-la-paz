@@ -1,3 +1,8 @@
-http://localhost:3000
-http://localhost:3000/saludo
-http://localhost:3000/mensaje/juan
+al probrar la ruta http://localhost:3000 muestra
+este mensaje :Servidor activo
+
+ con la ruta http://localhost:3000/saludo
+ me devuelve este mensaje : Hola comunidad
+
+y con la ruta http://localhost:3000/mensaje/juan
+el siguiente mensaje: Hola juan
