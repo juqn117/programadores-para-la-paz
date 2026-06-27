@@ -1,0 +1,8 @@
+que las comunidades puedean registrar y revisar los  reportes o incidencias en una plataforma 
+al Contar con una plataforma para registrar y consultar incidencias es fundamental para empoderar a una comunidad,
+ya que centraliza los problemas y evita que los reportes se pierdan en la burocracia Este canal directo,
+optimiza la comunicación con las entidades encargadas, permitiendo una asignación de recursos más eficiente y reduciendo los tiempos de respuesta ante fallas de infraestructura o seguridad
+Además, al ser un sistema abierto donde cualquiera puede consultar el estado de los casos, se fomenta una cultura de transparencia, 
+rendición de cuentas y auditoría ciudadana Los datos acumulados no solo sirven para resolver urgencias del día a día,
+ sino que también permiten identificar patrones repetitivos ayudando a planificar soluciones definitivas a largo plazo
+En definitiva, esta herramienta digital transforma el entorno urbano al fortalecer el tejido social y la participación activa de los ciudadanos

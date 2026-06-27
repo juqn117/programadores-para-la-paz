@@ -1,0 +1,10 @@
+ejemplo 1: 
+{
+  "tipo": "Soporte",
+  "descripcion": "El botón de pago con tarjeta de crédito se queda congelado en la pantalla de confirmación."
+}
+ejemplo 2:
+{
+  "tipo": "Mejora",
+  "descripcion": "Sería genial agregar un botón para activar el modo oscuro en el panel de administración."
+}

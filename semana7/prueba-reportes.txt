@@ -1,0 +1,47 @@
+ al probar el post la ruta http://localhost:3000/reportes
+con el primer reporte  reporte 
+{
+  "tipo": "Soporte",
+  "descripcion": "El botón de pago con tarjeta de crédito se queda congelado en la pantalla de confirmación."
+}
+ responde 
+ {
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Soporte",
+    "descripcion": "El botón de pago con tarjeta de crédito se queda congelado en la pantalla de confirmación."
+  }
+}
+al realizar hacer la peticion GET 
+[
+  {
+    "id": 1,
+    "tipo": "Soporte",
+    "descripcion": "El botón de pago con tarjeta de crédito se queda congelado en la pantalla de confirmación."
+  },
+
+ el POST  con el segundo reporte en la misma ruta 
+  {
+  "tipo": "Mejora",
+  "descripcion": "Sería genial agregar un botón para activar el modo oscuro en el panel de administración."
+}
+
+responde 
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Mejora",
+    "descripcion": "Sería genial agregar un botón para activar el modo oscuro en el panel de administración."
+  }
+}
+
+y con la peticion GET 
+[
+  {
+    "id": 1,
+    "tipo": "Mejora",
+    "descripcion": "Sería genial agregar un botón para activar el modo oscuro en el panel de administración."
+  }
+]

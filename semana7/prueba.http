@@ -1,0 +1,11 @@
+### 
+POST http://localhost:3000/reportes
+Content-Type: application/json
+
+{
+  "tipo": "Mejora",
+  "descripcion": "Sería genial agregar un botón para activar el modo oscuro en el panel de administración."
+}
+
+###
+GET http://localhost:3000/reportes
