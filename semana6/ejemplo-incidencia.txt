@@ -3,3 +3,17 @@
   "descripcion": "La comunidad reporta inundaciones en distinata calles por problemas 
   de drenaje en el alcantarillado "
 }
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 188
+ETag: W/"bc-qB/RJqsDtl2XWr0EbH67346bEJY"
+Date: Fri, 26 Jun 2026 23:58:59 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "servicio de alcantarillado",
+  "descripcion": "La comunidad reporta inundaciones en distinata calles por problemas de drenaje en el alcantarillado "
+}
