@@ -1,0 +1,9 @@
+cuando ejecuto el comadno node server.js :
+Servidor activo y funcionando
+
+aparece este mensaje en la terinal :
+Servidor ejecutándose en puerto 3000
+
+al usar la ruta /estado 
+aparece:
+ {"estado":"Servidor funcionando","servicio":"API comunitaria"}

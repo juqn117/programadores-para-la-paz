@@ -1,0 +1,10 @@
+La estabilidad y seguridad de un servidor son el pilar fundamental para que cualquier plataforma
+comunitaria funcione, ya que de ello depende directamente la confianza y la participación activa.
+Si el servidor es inestable y sufre caídas constantes, se interrumpe la comunicación, se pierden
+datos importantes y los usuarios abandonan el espacio por la frustración de no poder colaborar.
+Por otro lado, la falta de seguridad expone la información personal y las opiniones de los miembros,
+dejándolos vulnerables a hackeos, suplantaciones de identidad o manipulación de procesos internos.
+Una infraestructura técnica sólida garantiza que las herramientas estén siempre disponibles y protegidas,
+permitiendo que la comunidad debata, vote y organice sus proyectos en un entorno totalmente confiable.
+Al final, un servidor fuerte previene el sabotaje digital y asegura la continuidad de los procesos.
+Mantener el sistema estable y seguro es la única forma de garantizar un espacio democrático y libre.
