@@ -1,0 +1,10 @@
+La seguridad digital en plataformas participativas es el pilar que sostiene la confianza ciudadana,
+ya que los usuarios necesitan la certeza de que sus opiniones y datos personales están a salvo.
+Sin un blindaje técnico adecuado, estos entornos quedan expuestos a filtraciones de información,
+lo que vulnera la privacidad de los miembros y frena por completo su deseo de colaborar activamente.
+Además, los atacantes pueden manipular sistemas de votación, alterar debates o difundir noticias
+falsas, destruyendo la transparencia y legitimidad de cualquier decisión colectiva que se tome.
+La falta de controles también facilita la suplantación de identidades y el sabotaje de la red.
+Por ello, aplicar cifrado robusto y gestionar accesos por roles neutraliza amenazas críticas a tiempo.
+Proteger la infraestructura tecnológica asegura que el espacio se mantenga democrático y transparente.
+En definitiva, la ciberseguridad es el único camino para garantizar una participación libre y segura.

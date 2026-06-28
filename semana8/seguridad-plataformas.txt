@@ -1,0 +1,9 @@
+Minimizar la exposición y cifrar los datos personales (guardar solo lo necesario y encriptar la información sensible).
+
+Implementar autenticación robusta y MFA (exigir contraseñas fuertes, uso de doble factor y protegerlas con hash como bcrypt).
+
+Forzar conexiones seguras mediante HTTPS (usar certificados SSL/TLS para cifrar todo el tráfico entre el usuario y el servidor).
+
+Mantener un registro de auditoría (Logs) protegido (monitorear accesos, cambios de claves y acciones críticas para detectar anomalías).
+
+Aplicar control de acceso basado en roles (RBAC) (limitar los privilegios de cada usuario según su función para reducir el impacto si una cuenta es comprometida).

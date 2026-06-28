@@ -1,0 +1,13 @@
+el comando "uname -a muestra" :
+Linux codespaces-603fa3 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+ 
+ 
+y el comando "whoami"
+codespace
+
+
+conocer informacion de el sistema cuadno se administra un servidor es importante
+ya que de esta forma podremos conocer el hardware actual es suficiente para la carga de trabajo
+tambien permite la prevencion y el diagnostico de fallos , permitiendo identificar cuellos de botella antes 
+de que el servidor se caiga , asi teniendo mayor seguridad al conocer la version exacta del sistema operativo
+el kernel y los paquetes instalados , esto es vital para aplicar parches de seguridad.
